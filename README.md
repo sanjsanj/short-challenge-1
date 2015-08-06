@@ -13,3 +13,7 @@ Specs were to:
 I used Sinatra to provide a simple backend. Bootstrap provided most of the styling, and the Google Maps API gave me a mockup of a map.
 
 To use locally, clone this repo and run ```bundle``` in the command line. Run ```rackup``` to start the local server. You will need to add your own API key to a .env file to make the google maps plugin work.
+
+####Thoughts
+
+While obviously this was pretty quick, it gave me a chance to practice sinatra again, which is always good. I also learned how to use a simple GMaps plugin and how to give text a slight border! Neat!

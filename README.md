@@ -2,7 +2,7 @@
 
 Task was to make a quick prototype of a landing page for a sports shop.
 
-![Screenshot](/public/images/screenshot.png)
+![Screenshot](/public/img/screenshot.png)
 
 Specs were to:
 - Inform visitors that the full website is launching soon.

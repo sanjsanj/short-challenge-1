@@ -1,6 +1,9 @@
 require 'sinatra/base'
+require 'dotenv'
 
 class SportStore < Sinatra::Base
+  
+  Dotenv.load
   get '/' do
     erb :index
   end

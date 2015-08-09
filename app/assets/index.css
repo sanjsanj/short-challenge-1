@@ -46,7 +46,7 @@ p {
   color: black;
   border-color: white;
   margin-top: 40px;
-  margin-left: 100px;
+  margin-left: 125px;
   outline: none;
 }
 
@@ -54,4 +54,16 @@ p {
   background-color: gainsboro;
   color: black;
   outline: none;
+}
+
+#map-container {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  height: 300px;
+}
+
+#map-canvas {
+  margin: auto;
+  width: 40%;
+  height: 100%;
 }

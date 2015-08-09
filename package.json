@@ -2,8 +2,13 @@
   "name": "short-challenge-1",
   "version": "1.0.0",
   "description": "###Task",
+  "engines": {
+    "npm": "2.1.x",
+    "node": "0.10.x"
+  },
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "postinstall": "bower install",
     "prestart": "npm install",
     "test": "echo \"Error: no test specified\" && exit 1"

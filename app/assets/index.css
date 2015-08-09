@@ -6,14 +6,21 @@ body {
   font-family: 'Play', sans-serif;
 }
 
-#page-title {
-  z-index: 500;
+h1 {
   font-size: 7em;
 }
 
+#page-title {
+  z-index: 1000;
+  opacity: 1;
+  position: absolute;
+  right: 0;
+  left: 0;
+}
+
 #header-image {
+  margin-top: 50px;
   z-index: 1;
-  margin-top: -200px;
   width: 100%;
   opacity: 0.2;
 }

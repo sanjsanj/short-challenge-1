@@ -1,0 +1,23 @@
+{
+  "name": "short-challenge-1",
+  "version": "0.0.0",
+  "homepage": "https://github.com/barr-code/short-challenge-1",
+  "authors": [
+    "barr-code <vb329@georgetown.edu>"
+  ],
+  "description": "Sport shop landing page",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.3",
+    "angular-resource": "~1.4.3"
+  }
+}
